@@ -20,8 +20,7 @@ public class DlqListener {
 			fh.setFormatter(new SimpleFormatter());
 			logger.addHandler(fh);
 		} catch (IOException e) {
-			System.err.println("Falha ao inicializar o arquivo de log DLQ.");
-		}
+			logger.severe("Falha ao inicializar o arquivo de log DLQ: " + e.getMessage());		}
 	}
 
 	@RabbitListener(queues = "fila.pagamento.dlq")
