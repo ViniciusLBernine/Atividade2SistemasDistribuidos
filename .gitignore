@@ -15,3 +15,8 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# Ficheiros de configuração do Eclipse
+.settings/
+.project
+.classpath
