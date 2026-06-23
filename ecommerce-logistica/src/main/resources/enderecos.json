@@ -1,0 +1,702 @@
+[
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Copacabana",
+    "numero": 2249,
+    "cidade": "Florianópolis",
+    "estado": "SP"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Boa Viagem",
+    "numero": 2677,
+    "cidade": "Porto Alegre",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Copacabana",
+    "numero": 7579,
+    "cidade": "Recife",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Batel",
+    "numero": 6856,
+    "cidade": "Belo Horizonte",
+    "estado": "SP"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Jardim Primavera",
+    "numero": 7107,
+    "cidade": "São Paulo",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Zona Norte",
+    "numero": 5906,
+    "cidade": "Curitiba",
+    "estado": "SP"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Icaraí",
+    "numero": 8656,
+    "cidade": "Manaus",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Savassi",
+    "numero": 186,
+    "cidade": "Rio de Janeiro",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Zona Norte",
+    "numero": 2279,
+    "cidade": "Recife",
+    "estado": "SC"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Moema",
+    "numero": 2184,
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Moema",
+    "numero": 7755,
+    "cidade": "Florianópolis",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Icaraí",
+    "numero": 3036,
+    "cidade": "Florianópolis",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Zona Norte",
+    "numero": 2529,
+    "cidade": "Recife",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Vila Mariana",
+    "numero": 3454,
+    "cidade": "Curitiba",
+    "estado": "MG"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Icaraí",
+    "numero": 1113,
+    "cidade": "Porto Alegre",
+    "estado": "MG"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Boa Viagem",
+    "numero": 5350,
+    "cidade": "São Paulo",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Copacabana",
+    "numero": 2236,
+    "cidade": "Florianópolis",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Savassi",
+    "numero": 3584,
+    "cidade": "Florianópolis",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Alameda Santos",
+    "bairro": "Boa Viagem",
+    "numero": 326,
+    "cidade": "Recife",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Jardim Primavera",
+    "numero": 5258,
+    "cidade": "Belo Horizonte",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Icaraí",
+    "numero": 4648,
+    "cidade": "Curitiba",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Vila Mariana",
+    "numero": 6582,
+    "cidade": "Porto Alegre",
+    "estado": "SC"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Zona Norte",
+    "numero": 388,
+    "cidade": "Porto Alegre",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Savassi",
+    "numero": 2141,
+    "cidade": "Recife",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Centro",
+    "numero": 3701,
+    "cidade": "Porto Alegre",
+    "estado": "MG"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Jardim Primavera",
+    "numero": 5182,
+    "cidade": "Fortaleza",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Vila Mariana",
+    "numero": 9660,
+    "cidade": "Rio de Janeiro",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Centro",
+    "numero": 2162,
+    "cidade": "Florianópolis",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Vila Mariana",
+    "numero": 4789,
+    "cidade": "Fortaleza",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Icaraí",
+    "numero": 7955,
+    "cidade": "Fortaleza",
+    "estado": "SC"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Boa Viagem",
+    "numero": 9880,
+    "cidade": "Belo Horizonte",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Centro",
+    "numero": 7679,
+    "cidade": "Fortaleza",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Icaraí",
+    "numero": 3587,
+    "cidade": "Recife",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Centro",
+    "numero": 5329,
+    "cidade": "Belo Horizonte",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Zona Norte",
+    "numero": 8730,
+    "cidade": "Porto Alegre",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Jardim Primavera",
+    "numero": 6089,
+    "cidade": "Salvador",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Jardim Primavera",
+    "numero": 7436,
+    "cidade": "Curitiba",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Batel",
+    "numero": 6486,
+    "cidade": "Belo Horizonte",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Batel",
+    "numero": 5675,
+    "cidade": "Fortaleza",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Zona Norte",
+    "numero": 7327,
+    "cidade": "Florianópolis",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Copacabana",
+    "numero": 3516,
+    "cidade": "Salvador",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Centro",
+    "numero": 4625,
+    "cidade": "Recife",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Centro",
+    "numero": 6708,
+    "cidade": "Porto Alegre",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Icaraí",
+    "numero": 4786,
+    "cidade": "Florianópolis",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Jardim Primavera",
+    "numero": 4490,
+    "cidade": "Manaus",
+    "estado": "SP"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Savassi",
+    "numero": 9966,
+    "cidade": "Porto Alegre",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Jardim Primavera",
+    "numero": 7000,
+    "cidade": "Belo Horizonte",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Icaraí",
+    "numero": 517,
+    "cidade": "Porto Alegre",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Savassi",
+    "numero": 243,
+    "cidade": "Porto Alegre",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Copacabana",
+    "numero": 7895,
+    "cidade": "Porto Alegre",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Centro",
+    "numero": 2369,
+    "cidade": "Porto Alegre",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Vila Mariana",
+    "numero": 7668,
+    "cidade": "Recife",
+    "estado": "SC"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Savassi",
+    "numero": 2508,
+    "cidade": "Belo Horizonte",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Alameda Santos",
+    "bairro": "Vila Mariana",
+    "numero": 6071,
+    "cidade": "São Paulo",
+    "estado": "MG"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Savassi",
+    "numero": 8375,
+    "cidade": "Rio de Janeiro",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Icaraí",
+    "numero": 7470,
+    "cidade": "Salvador",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Zona Norte",
+    "numero": 9088,
+    "cidade": "Salvador",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Alameda Santos",
+    "bairro": "Copacabana",
+    "numero": 3303,
+    "cidade": "Rio de Janeiro",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Centro",
+    "numero": 3893,
+    "cidade": "Rio de Janeiro",
+    "estado": "MG"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Savassi",
+    "numero": 6574,
+    "cidade": "Fortaleza",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Savassi",
+    "numero": 8255,
+    "cidade": "Florianópolis",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Savassi",
+    "numero": 9562,
+    "cidade": "Florianópolis",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Batel",
+    "numero": 3796,
+    "cidade": "Salvador",
+    "estado": "SP"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Batel",
+    "numero": 2615,
+    "cidade": "Manaus",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Copacabana",
+    "numero": 1792,
+    "cidade": "São Paulo",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Copacabana",
+    "numero": 4822,
+    "cidade": "Recife",
+    "estado": "SC"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Savassi",
+    "numero": 516,
+    "cidade": "Recife",
+    "estado": "SP"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Copacabana",
+    "numero": 3768,
+    "cidade": "Fortaleza",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Copacabana",
+    "numero": 560,
+    "cidade": "Curitiba",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Batel",
+    "numero": 9214,
+    "cidade": "Salvador",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Savassi",
+    "numero": 6923,
+    "cidade": "Recife",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Alameda Santos",
+    "bairro": "Centro",
+    "numero": 4498,
+    "cidade": "São Paulo",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Centro",
+    "numero": 1315,
+    "cidade": "Salvador",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Alameda Santos",
+    "bairro": "Savassi",
+    "numero": 9433,
+    "cidade": "Rio de Janeiro",
+    "estado": "SC"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Savassi",
+    "numero": 4346,
+    "cidade": "Rio de Janeiro",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Savassi",
+    "numero": 2932,
+    "cidade": "Porto Alegre",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Estrada Velha",
+    "bairro": "Boa Viagem",
+    "numero": 2872,
+    "cidade": "Fortaleza",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Centro",
+    "numero": 8516,
+    "cidade": "Porto Alegre",
+    "estado": "PR"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Jardim Primavera",
+    "numero": 3018,
+    "cidade": "Florianópolis",
+    "estado": "MG"
+  },
+  {
+    "logradouro": "Rua do Sol",
+    "bairro": "Copacabana",
+    "numero": 4186,
+    "cidade": "Curitiba",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Rua das Laranjeiras",
+    "bairro": "Batel",
+    "numero": 3166,
+    "cidade": "Rio de Janeiro",
+    "estado": "CE"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Boa Viagem",
+    "numero": 3671,
+    "cidade": "Belo Horizonte",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Savassi",
+    "numero": 4525,
+    "cidade": "Fortaleza",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Vila Mariana",
+    "numero": 620,
+    "cidade": "Fortaleza",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Centro",
+    "numero": 6889,
+    "cidade": "Rio de Janeiro",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Batel",
+    "numero": 4976,
+    "cidade": "Fortaleza",
+    "estado": "RS"
+  },
+  {
+    "logradouro": "Avenida Brasil",
+    "bairro": "Copacabana",
+    "numero": 5247,
+    "cidade": "Porto Alegre",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Alameda Santos",
+    "bairro": "Vila Mariana",
+    "numero": 7333,
+    "cidade": "Rio de Janeiro",
+    "estado": "SC"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Zona Norte",
+    "numero": 8483,
+    "cidade": "Manaus",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Boa Viagem",
+    "numero": 6157,
+    "cidade": "Porto Alegre",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Savassi",
+    "numero": 4878,
+    "cidade": "Curitiba",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Jardim Primavera",
+    "numero": 1753,
+    "cidade": "Rio de Janeiro",
+    "estado": "AM"
+  },
+  {
+    "logradouro": "Rua das Flores",
+    "bairro": "Copacabana",
+    "numero": 7843,
+    "cidade": "Manaus",
+    "estado": "BA"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Moema",
+    "numero": 7138,
+    "cidade": "São Paulo",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Travessa das Palmeiras",
+    "bairro": "Centro",
+    "numero": 2986,
+    "cidade": "Porto Alegre",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Icaraí",
+    "numero": 1475,
+    "cidade": "São Paulo",
+    "estado": "RJ"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Vila Mariana",
+    "numero": 3662,
+    "cidade": "Fortaleza",
+    "estado": "SP"
+  },
+  {
+    "logradouro": "Avenida Atlântica",
+    "bairro": "Jardim Primavera",
+    "numero": 6670,
+    "cidade": "Rio de Janeiro",
+    "estado": "MG"
+  },
+  {
+    "logradouro": "Rua XV de Novembro",
+    "bairro": "Icaraí",
+    "numero": 7116,
+    "cidade": "Rio de Janeiro",
+    "estado": "PE"
+  },
+  {
+    "logradouro": "Rua das Acácias",
+    "bairro": "Savassi",
+    "numero": 5674,
+    "cidade": "Belo Horizonte",
+    "estado": "BA"
+  }
+]

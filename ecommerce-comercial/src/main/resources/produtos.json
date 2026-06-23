@@ -1,0 +1,72 @@
+[
+  {
+    "id": "prod-001",
+    "nome": "Cafeteira Elétrica",
+    "urlImagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlGdNgZHcFsshfea6hhiUqPzLBfSubgfb0B8ZZh_squj2Sg1B0ymqovjckrPjNhfYz5LdrhGIA62bcvcSNFzCxLV4Oha_UFuOydPo2nDKvZsuHFQFk0foVumh0MkDFeNBUmhvFIMOXZA&usqp=CAc",
+    "preco": 199.90,
+    "quantidadeEmEstoque": 15
+  },
+  {
+    "id": "prod-002",
+    "nome": "Fones de Ouvido Bluetooth",
+    "urlImagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRbKLP9G4IVSkmgVq7iu9WSbkTEV6mLP-63V4sxPgLpAEtDOn1cmHQXrH1La20D6GZlzIlc7Hau8JFzkj4x_E-AgIEKK3t7d3YB_EBxjeNgUzBk_wsmLj5meQz2OoPy03iCCqv2jr88LcA&usqp=CAc",
+    "preco": 349.50,
+    "quantidadeEmEstoque": 30
+  },
+  {
+    "id": "prod-003",
+    "nome": "Relógio de Pulso Clássico",
+    "urlImagem": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "preco": 459.00,
+    "quantidadeEmEstoque": 20
+  },
+  {
+    "id": "prod-004",
+    "nome": "Luminária de Mesa LED",
+    "urlImagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkgj7R-Tz96jqX5ruJ6hWQBSK8rHuOcaIqp7jdNvTE2mrfO_8cum-sR3jOLSxHnKiJMKNBUNPhoO7uTCgH47xn7ihsdJ6ySBe62CgRtGnwIPedJ6rbcOE1&usqp=CAc",
+    "preco": 89.90,
+    "quantidadeEmEstoque": 45
+  },
+  {
+    "id": "prod-005",
+    "nome": "Notebook Gamer 16GB",
+    "urlImagem": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "preco": 5499.99,
+    "quantidadeEmEstoque": 5
+  },
+  {
+    "id": "prod-006",
+    "nome": "Mochila para Notebook",
+    "urlImagem": "https://images.pexels.com/photos/459799/pexels-photo-459799.jpeg",
+    "preco": 129.90,
+    "quantidadeEmEstoque": 60
+  },
+  {
+    "id": "prod-007",
+    "nome": "Teclado Mecânico RGB",
+    "urlImagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfMwe0W1blr29JgI077UlYgLBAAQ4V7Pe2LJRXsv9yA7sZ0sIx1fNBZVGgFtfhn-vs6HgugKaYS_MV765Z2mtrkX3O3uaxGe9-Ziujl8Q55HNH4ZW5mwlNv4qCZBagCmhJ2IDclDE&usqp=CAc",
+    "preco": 320.00,
+    "quantidadeEmEstoque": 25
+  },
+  {
+    "id": "prod-008",
+    "nome": "Câmera Compacta Digital",
+    "urlImagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPJ3gu_mK6vYpiwS20VOsQbVX2JRmZZ3AmJHSjPRTRv4a-ym1TMrD6HJ8iJULz_6jGr0wdAsOG_6RlWZ1rCkvyNFRJsNpStQ2essGpANdddIufFQ4CLSNalg",
+    "preco": 2150.00,
+    "quantidadeEmEstoque": 12
+  },
+  {
+    "id": "prod-009",
+    "nome": "Smartphone Tela AMOLED",
+    "urlImagem": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "preco": 2999.90,
+    "quantidadeEmEstoque": 8
+  },
+  {
+    "id": "prod-010",
+    "nome": "Fita de Exercício / Banda Elástica",
+    "urlImagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSa5JsYnU15FDdj0XAGRmeqFXTel8RiR4T76e_hVPzl9vtAZ3x-3yfh1KcpKiEAsyXPoEYxvX5YzpYq-ug8TuX1kIeFZco5jn8Z4MrSFa7LnJ3UrskA3mBXwBm-lZUn66mv-UrhuuOVobw&usqp=CAc",
+    "preco": 39.90,
+    "quantidadeEmEstoque": 100
+  }
+]
